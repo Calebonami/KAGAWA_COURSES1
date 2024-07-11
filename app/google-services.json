@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060047635657",
+    "project_id": "kagawa-courses",
+    "storage_bucket": "kagawa-courses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060047635657:android:f3d68ef19bf796acd6b918",
+        "android_client_info": {
+          "package_name": "com.onami.kagawacourses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANATNxpvBm41rUJ9X647p90DxMHYYUbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

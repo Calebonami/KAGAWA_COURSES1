@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KAGAWA COURSES</string>
+    <string name="theme_settings_title" />
+    <string name="current_theme" />
+    <string name="light_theme" />
+    <string name="system_default_theme" />
+    <string name="theme_change_error_message" />
+    <string name="theme_changed_message" />
+    <string name="dark_theme" />
+    <string name="person_image_description" />
+</resources>
